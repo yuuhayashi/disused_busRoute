@@ -1,0 +1,962 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='320579323' timestamp='2015-10-11T14:37:34Z' uid='621319' user='hayashi' visible='true' version='6' changeset='34570602' lat='35.4535225' lon='139.4001386'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='noname' v='yes' />
+  </node>
+  <node id='320579345' timestamp='2015-12-23T06:07:21Z' uid='621319' user='hayashi' visible='true' version='8' changeset='36118728' lat='35.4534751' lon='139.3994058'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='国分' />
+    <tag k='name:ja_kana' v='こくぶ' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='320579419' timestamp='2012-10-08T08:47:29Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13409372' lat='35.4533075' lon='139.4001824' />
+  <node id='320579427' timestamp='2012-10-08T08:47:29Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13409372' lat='35.4532103' lon='139.40018' />
+  <node id='320579434' timestamp='2012-10-08T08:47:29Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13409372' lat='35.4530395' lon='139.40016' />
+  <node id='320579449' timestamp='2012-10-08T08:47:29Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13409372' lat='35.4529172' lon='139.4001465' />
+  <node id='320579456' timestamp='2012-10-08T08:47:29Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13409372' lat='35.452787' lon='139.4001517' />
+  <node id='320579463' timestamp='2012-12-16T13:12:01Z' uid='701739' user='5963' visible='true' version='4' changeset='14292407' lat='35.4520404' lon='139.4002685' />
+  <node id='320579470' timestamp='2014-11-15T17:38:46Z' uid='631141' user='Ryo-a' visible='true' version='4' changeset='26803833' lat='35.451824' lon='139.4002697' />
+  <node id='320579477' timestamp='2012-10-08T08:47:29Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13409372' lat='35.4515436' lon='139.4002521' />
+  <node id='320579483' timestamp='2012-10-08T08:47:29Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13409372' lat='35.4513058' lon='139.4002464' />
+  <node id='320579498' timestamp='2012-10-08T08:47:29Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13409372' lat='35.4508164' lon='139.4003404' />
+  <node id='320579503' timestamp='2012-10-08T08:47:29Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13409372' lat='35.4505721' lon='139.4004606' />
+  <node id='320579509' timestamp='2012-10-08T08:47:29Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13409372' lat='35.4503821' lon='139.4005787' />
+  <node id='320579516' timestamp='2014-11-15T17:38:46Z' uid='631141' user='Ryo-a' visible='true' version='3' changeset='26803833' lat='35.4478732' lon='139.4021671' />
+  <node id='320579522' timestamp='2015-08-29T22:37:09Z' uid='631141' user='Ryo-a' visible='true' version='3' changeset='33673053' lat='35.4476417' lon='139.4023725' />
+  <node id='320579531' timestamp='2015-08-29T22:37:09Z' uid='631141' user='Ryo-a' visible='true' version='3' changeset='33673053' lat='35.4475263' lon='139.4025017' />
+  <node id='320579548' timestamp='2012-10-08T08:47:29Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13409372' lat='35.4474055' lon='139.4026796' />
+  <node id='320579567' timestamp='2012-10-08T08:47:29Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13409372' lat='35.4472659' lon='139.4029001' />
+  <node id='320579583' timestamp='2012-10-08T08:47:29Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13409372' lat='35.4471349' lon='139.4031135' />
+  <node id='320579592' timestamp='2008-12-21T15:29:53Z' uid='39534' user='techstrom' visible='true' version='1' changeset='528201' lat='35.4469797' lon='139.403251' />
+  <node id='320579609' timestamp='2015-12-23T10:51:16Z' uid='621319' user='hayashi' visible='true' version='3' changeset='36122818' lat='35.4451502' lon='139.4045746'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='国分寺台第3' />
+    <tag k='name:ja_kana' v='こくぶんじだいだい3' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='320579639' timestamp='2012-10-08T08:47:29Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13409372' lat='35.4448305' lon='139.4047509' />
+  <node id='320579647' timestamp='2012-10-08T08:47:29Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13409372' lat='35.4447612' lon='139.4047869'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='320579674' timestamp='2012-10-08T08:47:30Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13409372' lat='35.4441541' lon='139.4050056' />
+  <node id='348235866' timestamp='2015-12-13T03:51:13Z' uid='621319' user='hayashi' visible='true' version='21' changeset='35919936' lat='35.4513201' lon='139.3922527'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='name' v='海老名駅入口' />
+    <tag k='name:en' v='Ebina Station Entrance' />
+    <tag k='name:ja' v='海老名駅入口' />
+    <tag k='name:ja_kana' v='えびなえきいりぐち' />
+  </node>
+  <node id='348235867' timestamp='2014-03-29T12:32:52Z' uid='621319' user='hayashi' visible='true' version='8' changeset='21382167' lat='35.4521921' lon='139.3923645' />
+  <node id='348235898' timestamp='2012-07-15T17:41:27Z' uid='621319' user='hayashi' visible='true' version='5' changeset='12233198' lat='35.4526708' lon='139.3924033'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='name' v='海老名駅前' />
+    <tag k='name:en' v='Ebina Station' />
+  </node>
+  <node id='365903366' timestamp='2015-10-12T01:28:16Z' uid='621319' user='hayashi' visible='true' version='9' changeset='34580896' lat='35.4515101' lon='139.3968087'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='name' v='国分坂下' />
+    <tag k='name:en' v='Kokubu Sakashita' />
+    <tag k='name:ja' v='国分坂下' />
+  </node>
+  <node id='365932779' timestamp='2015-12-13T03:51:13Z' uid='621319' user='hayashi' visible='true' version='10' changeset='35919936' lat='35.4514485' lon='139.3949855'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='name' v='中央公園入口' />
+    <tag k='name:en' v='Chuo Park Entrance' />
+    <tag k='name:ja' v='中央公園入口' />
+    <tag k='name:ja_kana' v='ちゅうおうこうえんいりぐち' />
+    <tag k='name:ja_rm' v='Chuo Koen Iriguchi' />
+  </node>
+  <node id='369941535' timestamp='2012-10-08T08:47:30Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13409372' lat='35.4533711' lon='139.3991911' />
+  <node id='369941539' timestamp='2012-10-08T08:47:30Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13409372' lat='35.4532135' lon='139.3990083' />
+  <node id='369941548' timestamp='2015-10-12T01:28:17Z' uid='621319' user='hayashi' visible='true' version='5' changeset='34580896' lat='35.45241' lon='139.3979045' />
+  <node id='369941553' timestamp='2015-10-11T14:37:34Z' uid='621319' user='hayashi' visible='true' version='2' changeset='34570602' lat='35.4519814' lon='139.3974992' />
+  <node id='369941560' timestamp='2014-11-15T17:38:46Z' uid='631141' user='Ryo-a' visible='true' version='7' changeset='26803833' lat='35.4515353' lon='139.397165'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='372584018' timestamp='2012-03-10T10:21:00Z' uid='621319' user='hayashi' visible='true' version='2' changeset='10929975' lat='35.4289857' lon='139.401857' />
+  <node id='372584023' timestamp='2012-11-03T09:04:53Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13731743' lat='35.4294061' lon='139.4032049' />
+  <node id='372584026' timestamp='2012-03-10T10:21:00Z' uid='621319' user='hayashi' visible='true' version='2' changeset='10929975' lat='35.4296658' lon='139.4033851' />
+  <node id='372584029' timestamp='2009-04-11T14:13:28Z' uid='105009' user='yasu747' visible='true' version='1' changeset='427282' lat='35.4301782' lon='139.4034508' />
+  <node id='372584033' timestamp='2012-03-10T10:21:00Z' uid='621319' user='hayashi' visible='true' version='2' changeset='10929975' lat='35.4304001' lon='139.4037828' />
+  <node id='372584038' timestamp='2014-11-16T04:02:08Z' uid='631141' user='Ryo-a' visible='true' version='3' changeset='26813994' lat='35.4306759' lon='139.4042983' />
+  <node id='372584045' timestamp='2014-11-16T04:02:08Z' uid='631141' user='Ryo-a' visible='true' version='3' changeset='26813994' lat='35.4308913' lon='139.404505' />
+  <node id='372584053' timestamp='2014-11-16T04:02:08Z' uid='631141' user='Ryo-a' visible='true' version='3' changeset='26813994' lat='35.4318249' lon='139.4045619' />
+  <node id='372585619' timestamp='2015-12-23T10:51:15Z' uid='621319' user='hayashi' visible='true' version='6' changeset='36122818' lat='35.435969' lon='139.4056652'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='traffic_signals' />
+    <tag k='name' v='国分寺台三丁目 (Kokubunjidai 3-chome)' />
+    <tag k='name:en' v='Kokubunjidai 3-chome' />
+    <tag k='name:ja' v='国分寺台三丁目' />
+  </node>
+  <node id='372585641' timestamp='2012-05-08T22:35:21Z' uid='96268' user='Nahainec' visible='true' version='3' changeset='11544674' lat='35.4370168' lon='139.4058156' />
+  <node id='372585652' timestamp='2015-12-23T11:08:11Z' uid='621319' user='hayashi' visible='true' version='5' changeset='36123118' lat='35.4374597' lon='139.4056478'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='国分寺台第7' />
+    <tag k='name:ja_kana' v='こくぶんじだいだい7' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='372585666' timestamp='2012-10-08T08:47:30Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13409372' lat='35.4384715' lon='139.4050003' />
+  <node id='372585679' timestamp='2012-10-08T08:47:30Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13409372' lat='35.4390688' lon='139.4046587' />
+  <node id='372585690' timestamp='2012-10-08T08:47:30Z' uid='621319' user='hayashi' visible='true' version='5' changeset='13409372' lat='35.4398241' lon='139.4044669' />
+  <node id='372585705' timestamp='2012-05-02T14:38:02Z' uid='621319' user='hayashi' visible='true' version='6' changeset='11480132' lat='35.4401628' lon='139.4044797'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='name' v='大谷小学校入口 (Oya Elementary School Ent.)' />
+    <tag k='name:en' v='Oya Elementary School Ent.' />
+    <tag k='name:ja' v='大谷小学校入口' />
+  </node>
+  <node id='372585721' timestamp='2012-10-08T08:47:30Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13409372' lat='35.44112' lon='139.4047079' />
+  <node id='372585729' timestamp='2012-10-08T08:47:30Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13409372' lat='35.4426875' lon='139.4051048' />
+  <node id='372585738' timestamp='2013-03-24T12:28:26Z' uid='621319' user='hayashi' visible='true' version='2' changeset='15478067' lat='35.4434394' lon='139.4051252' />
+  <node id='418218491' timestamp='2012-10-08T08:47:30Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13409372' lat='35.4524922' lon='139.3980264' />
+  <node id='418218786' timestamp='2015-12-13T03:51:13Z' uid='621319' user='hayashi' visible='true' version='6' changeset='35919936' lat='35.4513942' lon='139.3936668' />
+  <node id='428791282' timestamp='2015-12-13T03:51:13Z' uid='621319' user='hayashi' visible='true' version='5' changeset='35919936' lat='35.4513278' lon='139.3924814' />
+  <node id='430738716' timestamp='2014-11-16T04:02:08Z' uid='631141' user='Ryo-a' visible='true' version='3' changeset='26813994' lat='35.4328344' lon='139.4046813' />
+  <node id='439955935' timestamp='2016-01-16T13:28:27Z' uid='3344524' user='tkamada' visible='true' version='3' changeset='36614922' lat='35.4386972' lon='139.4048631' />
+  <node id='535269858' timestamp='2012-05-07T14:59:51Z' uid='96268' user='Nahainec' visible='true' version='2' changeset='11529937' lat='35.4522082' lon='139.3921368' />
+  <node id='535270081' timestamp='2012-07-15T17:41:32Z' uid='621319' user='hayashi' visible='true' version='2' changeset='12233198' lat='35.4526855' lon='139.3922058' />
+  <node id='536511381' timestamp='2014-11-16T04:02:08Z' uid='631141' user='Ryo-a' visible='true' version='6' changeset='26813994' lat='35.4335326' lon='139.4047862'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='601456925' timestamp='2012-10-08T08:47:30Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13409372' lat='35.4417352' lon='139.4048759' />
+  <node id='601456926' timestamp='2012-10-08T08:47:31Z' uid='621319' user='hayashi' visible='true' version='4' changeset='13409372' lat='35.4340872' lon='139.4049996'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='605224356' timestamp='2010-01-05T07:39:04Z' uid='142093' user='icy' visible='true' version='1' changeset='3543234' lat='35.4409452' lon='139.4046548' />
+  <node id='646674811' timestamp='2012-05-08T14:55:45Z' uid='96268' user='Nahainec' visible='true' version='2' changeset='11539949' lat='35.4383062' lon='139.4051021' />
+  <node id='646674819' timestamp='2012-10-08T08:47:31Z' uid='621319' user='hayashi' visible='true' version='4' changeset='13409372' lat='35.4394195' lon='139.404533' />
+  <node id='647710112' timestamp='2010-02-20T08:02:24Z' uid='142093' user='icy' visible='true' version='1' changeset='3921096' lat='35.4455092' lon='139.4043439' />
+  <node id='647710119' timestamp='2012-10-08T08:47:31Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13409372' lat='35.4472245' lon='139.4029633' />
+  <node id='647710130' timestamp='2010-02-20T08:02:24Z' uid='142093' user='icy' visible='true' version='1' changeset='3921096' lat='35.4465258' lon='139.4035884' />
+  <node id='647710131' timestamp='2012-10-08T08:47:31Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13409372' lat='35.4460593' lon='139.4039169' />
+  <node id='654592859' timestamp='2012-10-08T08:47:31Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13409372' lat='35.452526' lon='139.4002088' />
+  <node id='654592860' timestamp='2012-10-08T08:47:31Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13409372' lat='35.4520956' lon='139.4002765' />
+  <node id='654687527' timestamp='2012-03-14T15:28:12Z' uid='621319' user='hayashi' visible='true' version='2' changeset='10978968' lat='35.434986' lon='139.4053104' />
+  <node id='654687561' timestamp='2012-05-08T14:55:43Z' uid='96268' user='Nahainec' visible='true' version='2' changeset='11539949' lat='35.4377839' lon='139.4054481' />
+  <node id='654687564' timestamp='2013-05-02T03:34:40Z' uid='621319' user='hayashi' visible='true' version='3' changeset='15941422' lat='35.436308' lon='139.4057901' />
+  <node id='654687566' timestamp='2012-05-08T22:35:22Z' uid='96268' user='Nahainec' visible='true' version='2' changeset='11544674' lat='35.436241' lon='139.40577' />
+  <node id='654687598' timestamp='2012-05-08T22:35:21Z' uid='96268' user='Nahainec' visible='true' version='4' changeset='11544674' lat='35.436842' lon='139.4058209' />
+  <node id='654687608' timestamp='2012-05-02T14:38:07Z' uid='621319' user='hayashi' visible='true' version='3' changeset='11480132' lat='35.437151' lon='139.4057856' />
+  <node id='656063871' timestamp='2012-03-14T14:13:53Z' uid='621319' user='hayashi' visible='true' version='3' changeset='10978251' lat='35.4259093' lon='139.4048472' />
+  <node id='656063880' timestamp='2014-11-16T04:02:09Z' uid='631141' user='Ryo-a' visible='true' version='3' changeset='26813994' lat='35.4309981' lon='139.4045429' />
+  <node id='657922741' timestamp='2012-11-03T10:35:05Z' uid='621319' user='hayashi' visible='true' version='4' changeset='13732488' lat='35.4353933' lon='139.4054587' />
+  <node id='657922777' timestamp='2015-08-15T10:46:25Z' uid='621319' user='hayashi' visible='true' version='4' changeset='33350166' lat='35.4356534' lon='139.4055482' />
+  <node id='662296264' timestamp='2014-11-15T17:38:47Z' uid='631141' user='Ryo-a' visible='true' version='2' changeset='26803833' lat='35.4484378' lon='139.4018059' />
+  <node id='663919462' timestamp='2012-10-08T08:47:31Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13409372' lat='35.4498373' lon='139.4009423' />
+  <node id='671200481' timestamp='2015-08-29T22:37:09Z' uid='631141' user='Ryo-a' visible='true' version='3' changeset='33673053' lat='35.447824' lon='139.4022087' />
+  <node id='678287208' timestamp='2010-03-30T07:19:47Z' uid='142093' user='icy' visible='true' version='1' changeset='4274009' lat='35.4272747' lon='139.4015087' />
+  <node id='678287209' timestamp='2012-03-10T10:21:16Z' uid='621319' user='hayashi' visible='true' version='2' changeset='10929975' lat='35.4289058' lon='139.4012384'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='678287213' timestamp='2012-03-10T10:21:16Z' uid='621319' user='hayashi' visible='true' version='2' changeset='10929975' lat='35.4294972' lon='139.4033339'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1668449916' timestamp='2012-11-03T09:04:52Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13731743' lat='35.4263453' lon='139.4014753' />
+  <node id='1668449917' timestamp='2012-11-03T09:04:52Z' uid='621319' user='hayashi' visible='true' version='3' changeset='13731743' lat='35.4268402' lon='139.4015127' />
+  <node id='1668449928' timestamp='2015-09-01T09:48:49Z' uid='631141' user='Ryo-a' visible='true' version='2' changeset='33723163' lat='35.429043' lon='139.4020778' />
+  <node id='1668449929' timestamp='2012-03-10T10:20:18Z' uid='621319' user='hayashi' visible='true' version='1' changeset='10929975' lat='35.4291834' lon='139.4025378' />
+  <node id='1668449947' timestamp='2012-03-10T10:20:19Z' uid='621319' user='hayashi' visible='true' version='1' changeset='10929975' lat='35.4299875' lon='139.4033942' />
+  <node id='1668449950' timestamp='2012-11-03T09:04:52Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13731743' lat='35.4300839' lon='139.4034053' />
+  <node id='1668449956' timestamp='2012-03-10T10:20:19Z' uid='621319' user='hayashi' visible='true' version='1' changeset='10929975' lat='35.4302924' lon='139.4035759' />
+  <node id='1668449961' timestamp='2014-11-16T04:02:08Z' uid='631141' user='Ryo-a' visible='true' version='2' changeset='26813994' lat='35.4307688' lon='139.4044233' />
+  <node id='1668449964' timestamp='2014-11-16T04:02:08Z' uid='631141' user='Ryo-a' visible='true' version='2' changeset='26813994' lat='35.4314064' lon='139.4045258' />
+  <node id='1668449967' timestamp='2014-11-16T04:02:08Z' uid='631141' user='Ryo-a' visible='true' version='4' changeset='26813994' lat='35.4315804' lon='139.404526'>
+    <tag k='source' v='survey 2012-08-15' />
+  </node>
+  <node id='1668449996' timestamp='2015-12-23T10:51:17Z' uid='621319' user='hayashi' visible='true' version='3' changeset='36122818' lat='35.432302' lon='139.404605'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='杉久保入口' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='1668449997' timestamp='2014-11-16T04:02:08Z' uid='631141' user='Ryo-a' visible='true' version='2' changeset='26813994' lat='35.4325623' lon='139.4046338' />
+  <node id='1673417115' timestamp='2012-05-09T12:37:56Z' uid='96268' user='Nahainec' visible='true' version='2' changeset='11548880' lat='35.4266205' lon='139.4049224' />
+  <node id='1673420268' timestamp='2012-11-03T09:04:53Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13731743' lat='35.4266263' lon='139.4048009' />
+  <node id='1674579648' timestamp='2012-03-14T14:13:51Z' uid='621319' user='hayashi' visible='true' version='1' changeset='10978251' lat='35.4263673' lon='139.4033089' />
+  <node id='1674579649' timestamp='2012-03-14T14:13:51Z' uid='621319' user='hayashi' visible='true' version='1' changeset='10978251' lat='35.4264216' lon='139.4036282' />
+  <node id='1674579650' timestamp='2012-11-03T09:04:53Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13731743' lat='35.4265603' lon='139.4041128' />
+  <node id='1715810600' timestamp='2015-12-23T10:51:16Z' uid='621319' user='hayashi' visible='true' version='3' changeset='36122818' lat='35.4352563' lon='139.4054065'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='国分寺台第8' />
+    <tag k='name:ja_kana' v='こくぶんじだいだい8' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='1715913476' timestamp='2015-12-23T10:51:15Z' uid='621319' user='hayashi' visible='true' version='3' changeset='36122818' lat='35.4499198' lon='139.4008174'>
+    <tag k='bench' v='yes' />
+    <tag k='bus' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='国分寺台第1' />
+    <tag k='name:ja_kana' v='こくぶんじだいだい1' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='1715913477' timestamp='2015-12-23T10:51:15Z' uid='621319' user='hayashi' visible='true' version='2' changeset='36122818' lat='35.4481296' lon='139.4019445'>
+    <tag k='bench' v='yes' />
+    <tag k='bus' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='国分寺台第2' />
+    <tag k='name:ja_kana' v='こくぶんじだいだい2' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='1715913481' timestamp='2015-12-23T10:51:16Z' uid='621319' user='hayashi' visible='true' version='3' changeset='36122818' lat='35.441137' lon='139.404634'>
+    <tag k='bench' v='yes' />
+    <tag k='bus' v='yes' />
+    <tag k='covered' v='no' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='国分寺台第5' />
+    <tag k='name:ja_kana' v='こくぶんじだいだい5' />
+    <tag k='operator' v='相鉄バス' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='1715913483' timestamp='2016-01-16T23:29:13Z' uid='621319' user='hayashi' visible='true' version='8' changeset='36625866' lat='35.4522147' lon='139.3917973'>
+    <tag k='bench' v='yes' />
+    <tag k='bus' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='0' />
+    <tag k='name' v='海老名駅' />
+    <tag k='name:en' v='Ebina Eki' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='1738351939' timestamp='2015-08-15T10:46:24Z' uid='621319' user='hayashi' visible='true' version='3' changeset='33350166' lat='35.435903' lon='139.4056398'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='1738351945' timestamp='2015-12-23T10:51:18Z' uid='621319' user='hayashi' visible='true' version='4' changeset='36122818' lat='35.4360348' lon='139.4056906'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='1742804431' timestamp='2012-10-08T08:47:28Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13409372' lat='35.4533869' lon='139.4001641' />
+  <node id='1867297247' timestamp='2015-12-23T10:51:17Z' uid='621319' user='hayashi' visible='true' version='3' changeset='36122818' lat='35.4263012' lon='139.4022558'>
+    <tag k='bench' v='yes' />
+    <tag k='bus' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='杉久保住宅' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='source' v='survey 2012-08-15' />
+  </node>
+  <node id='1867297262' timestamp='2015-12-23T10:51:14Z' uid='621319' user='hayashi' visible='true' version='3' changeset='36122818' lat='35.4275398' lon='139.4013868'>
+    <tag k='bus' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='サンパルク650' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='source' v='survey 2012-08-15' />
+  </node>
+  <node id='1867297276' timestamp='2015-12-23T10:51:17Z' uid='621319' user='hayashi' visible='true' version='3' changeset='36122818' lat='35.4292576' lon='139.4025454'>
+    <tag k='bus' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='杉久保小学校前' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='source' v='survey 2012-08-15' />
+  </node>
+  <node id='1867297962' timestamp='2012-11-03T09:04:53Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13731743' lat='35.4263272' lon='139.4018558' />
+  <node id='1867297964' timestamp='2012-11-03T09:04:53Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13731743' lat='35.4263338' lon='139.4020883' />
+  <node id='1867297966' timestamp='2012-08-15T13:40:08Z' uid='621319' user='hayashi' visible='true' version='1' changeset='12739241' lat='35.4263581' lon='139.4025882' />
+  <node id='1867297968' timestamp='2012-08-15T13:40:08Z' uid='621319' user='hayashi' visible='true' version='1' changeset='12739241' lat='35.426363' lon='139.4029684' />
+  <node id='1952281725' timestamp='2015-12-23T10:51:16Z' uid='621319' user='hayashi' visible='true' version='2' changeset='36122818' lat='35.4395521' lon='139.4044937'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='国分寺台第6' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='1952281726' timestamp='2012-10-08T08:47:19Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13409372' lat='35.4400168' lon='139.404467' />
+  <node id='1952281727' timestamp='2012-10-08T08:47:19Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13409372' lat='35.442261' lon='139.4050042' />
+  <node id='1952281728' timestamp='2012-10-08T08:47:19Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13409372' lat='35.4430531' lon='139.4051418' />
+  <node id='1952281729' timestamp='2015-12-23T10:51:16Z' uid='621319' user='hayashi' visible='true' version='2' changeset='36122818' lat='35.4435866' lon='139.4051108'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='国分寺台第4' />
+    <tag k='name:ja_kana' v='こくぶんじだいだい4' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='1952281730' timestamp='2012-10-08T08:47:19Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13409372' lat='35.4437927' lon='139.4050808' />
+  <node id='1952281732' timestamp='2014-11-15T17:38:44Z' uid='631141' user='Ryo-a' visible='true' version='2' changeset='26803833' lat='35.4481488' lon='139.4019844' />
+  <node id='1952281741' timestamp='2015-12-23T06:07:20Z' uid='621319' user='hayashi' visible='true' version='6' changeset='36118728' lat='35.4514932' lon='139.3960059'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='中央一丁目' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='source' v='survey' />
+  </node>
+  <node id='1952281746' timestamp='2015-10-11T14:37:34Z' uid='621319' user='hayashi' visible='true' version='2' changeset='34570602' lat='35.4521599' lon='139.3976312' />
+  <node id='1952281747' timestamp='2015-10-11T14:37:34Z' uid='621319' user='hayashi' visible='true' version='2' changeset='34570602' lat='35.4523009' lon='139.397766' />
+  <node id='1952281749' timestamp='2015-10-11T14:37:34Z' uid='621319' user='hayashi' visible='true' version='3' changeset='34570602' lat='35.4534393' lon='139.3992759' />
+  <node id='1952281751' timestamp='2015-10-11T14:37:34Z' uid='621319' user='hayashi' visible='true' version='2' changeset='34570602' lat='35.4535047' lon='139.3997908' />
+  <node id='1952281753' timestamp='2015-12-23T14:24:23Z' uid='621319' user='hayashi' visible='true' version='6' changeset='36126662' lat='35.4527302' lon='139.3920861'>
+    <tag k='bench' v='yes' />
+    <tag k='bus' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='local_ref' v='3' />
+    <tag k='name' v='海老名駅' />
+    <tag k='name:ja_kana' v='えびなえき' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='1994995545' timestamp='2015-12-23T10:51:15Z' uid='621319' user='hayashi' visible='true' version='2' changeset='36122818' lat='35.4277307' lon='139.4015249'>
+    <tag k='bus' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='サンパルク650' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='source' v='survey 2012-08-15' />
+  </node>
+  <node id='1994995549' timestamp='2012-11-03T09:04:49Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13731743' lat='35.4265004' lon='139.4038802' />
+  <node id='1994995550' timestamp='2012-11-03T09:04:49Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13731743' lat='35.4265952' lon='139.4043068' />
+  <node id='1994995551' timestamp='2012-11-03T09:04:49Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13731743' lat='35.4270584' lon='139.4015146' />
+  <node id='1994995552' timestamp='2012-11-03T09:04:50Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13731743' lat='35.4276828' lon='139.4014456' />
+  <node id='1994995553' timestamp='2012-11-03T09:04:50Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13731743' lat='35.4280913' lon='139.4013818' />
+  <node id='1994995554' timestamp='2012-11-03T09:04:50Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13731743' lat='35.4289579' lon='139.4016754' />
+  <node id='1994995555' timestamp='2012-11-03T09:04:50Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13731743' lat='35.4292964' lon='139.4029042' />
+  <node id='1994995556' timestamp='2012-11-03T09:04:50Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13731743' lat='35.4293538' lon='139.403065' />
+  <node id='1994995557' timestamp='2012-11-03T09:04:50Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13731743' lat='35.4294459' lon='139.403283' />
+  <node id='1994995558' timestamp='2012-11-03T09:04:50Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13731743' lat='35.4295757' lon='139.4033652' />
+  <node id='1994995559' timestamp='2012-11-03T09:04:50Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13731743' lat='35.4301355' lon='139.4034224' />
+  <node id='1994995560' timestamp='2012-11-03T09:04:50Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13731743' lat='35.4302402' lon='139.4035098' />
+  <node id='1994995561' timestamp='2014-11-16T04:02:08Z' uid='631141' user='Ryo-a' visible='true' version='2' changeset='26813994' lat='35.430719' lon='139.4043697' />
+  <node id='1994995562' timestamp='2014-11-16T04:02:08Z' uid='631141' user='Ryo-a' visible='true' version='2' changeset='26813994' lat='35.4308341' lon='139.4044775' />
+  <node id='1994995577' timestamp='2015-12-23T10:51:17Z' uid='621319' user='hayashi' visible='true' version='2' changeset='36122818' lat='35.4289274' lon='139.401715'>
+    <tag k='bus' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='杉久保小学校前' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='source' v='survey 2012-08-15' />
+  </node>
+  <node id='1995040795' timestamp='2015-12-23T08:53:36Z' uid='621319' user='hayashi' visible='true' version='2' changeset='36120761' lat='35.4261102' lon='139.4046914'>
+    <tag k='bench' v='yes' />
+    <tag k='bus' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='農大前' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='source' v='survey 2012-11-03' />
+  </node>
+  <node id='1996750807' timestamp='2015-10-11T14:37:34Z' uid='621319' user='hayashi' visible='true' version='2' changeset='34570602' lat='35.453522' lon='139.4000035'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='noname' v='yes' />
+  </node>
+  <node id='2057263574' timestamp='2015-12-23T10:51:15Z' uid='621319' user='hayashi' visible='true' version='3' changeset='36122818' lat='35.447039' lon='139.403287'>
+    <tag k='bus' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='国分寺台第2' />
+    <tag k='name:ja_kana' v='こくぶんじだいだい2' />
+    <tag k='operator' v='相鉄バス' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='2090915101' timestamp='2013-04-23T13:02:56Z' uid='621319' user='hayashi' visible='true' version='2' changeset='15836568' lat='35.4522249' lon='139.3918641' />
+  <node id='2130308465' timestamp='2015-12-23T10:51:16Z' uid='621319' user='hayashi' visible='true' version='2' changeset='36122818' lat='35.441191' lon='139.404767'>
+    <tag k='bus' v='yes' />
+    <tag k='covered' v='no' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='国分寺台第5' />
+    <tag k='name:ja_kana' v='こくぶんじだいだい5' />
+    <tag k='network' v='綾１２,１１,13' />
+    <tag k='operator' v='相鉄バス' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='2218445393' timestamp='2013-03-24T12:28:15Z' uid='621319' user='hayashi' visible='true' version='1' changeset='15478067' lat='35.4426281' lon='139.4050908' />
+  <node id='2238384149' timestamp='2015-12-13T03:51:13Z' uid='621319' user='hayashi' visible='true' version='4' changeset='35919936' lat='35.4513227' lon='139.3923299' />
+  <node id='2250044736' timestamp='2013-04-05T09:18:49Z' uid='407245' user='kurauchi' visible='true' version='1' changeset='15617346' lat='35.4491011' lon='139.4014015' />
+  <node id='2250044817' timestamp='2013-04-05T09:18:49Z' uid='407245' user='kurauchi' visible='true' version='1' changeset='15617346' lat='35.4504086' lon='139.4005622' />
+  <node id='2280156233' timestamp='2015-12-23T10:51:15Z' uid='621319' user='hayashi' visible='true' version='2' changeset='36122818' lat='35.4495276' lon='139.4012076'>
+    <tag k='bus' v='yes' />
+    <tag k='cover' v='no' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='国分寺台第1' />
+    <tag k='name:ja_kana' v='こくぶんじだいだい1' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='2751711864' timestamp='2015-11-03T14:30:39Z' uid='2512300' user='samely' visible='true' version='4' changeset='35057137' lat='35.4513162' lon='139.3921383'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='name' v='海老名駅入口' />
+    <tag k='name:en' v='Ebina Station Entrance' />
+    <tag k='name:ja' v='海老名駅入口' />
+    <tag k='name:ja_kana' v='えびなえきいりぐち' />
+  </node>
+  <node id='2751711865' timestamp='2014-03-29T12:32:31Z' uid='621319' user='hayashi' visible='true' version='1' changeset='21382167' lat='35.4521967' lon='139.3923052' />
+  <node id='2751711866' timestamp='2014-03-29T12:32:31Z' uid='621319' user='hayashi' visible='true' version='1' changeset='21382167' lat='35.452642' lon='139.3924279' />
+  <node id='2751711868' timestamp='2015-10-11T14:37:34Z' uid='621319' user='hayashi' visible='true' version='2' changeset='34570602' lat='35.4534664' lon='139.3993536' />
+  <node id='3188740895' timestamp='2014-11-15T17:38:23Z' uid='631141' user='Ryo-a' visible='true' version='1' changeset='26803833' lat='35.4496022' lon='139.4010889' />
+  <node id='3188740903' timestamp='2014-11-15T17:38:23Z' uid='631141' user='Ryo-a' visible='true' version='1' changeset='26803833' lat='35.4500216' lon='139.4008193' />
+  <node id='3188740918' timestamp='2014-11-15T17:38:23Z' uid='631141' user='Ryo-a' visible='true' version='1' changeset='26803833' lat='35.450977' lon='139.4002877' />
+  <node id='3188740922' timestamp='2014-11-15T17:38:23Z' uid='631141' user='Ryo-a' visible='true' version='1' changeset='26803833' lat='35.4511432' lon='139.4002609' />
+  <node id='3188740942' timestamp='2014-11-15T17:38:23Z' uid='631141' user='Ryo-a' visible='true' version='1' changeset='26803833' lat='35.4524602' lon='139.3979871' />
+  <node id='3720646507' timestamp='2015-08-29T22:37:00Z' uid='631141' user='Ryo-a' visible='true' version='1' changeset='33673053' lat='35.4473766' lon='139.4027252' />
+  <node id='3720646518' timestamp='2015-08-29T22:37:00Z' uid='631141' user='Ryo-a' visible='true' version='1' changeset='33673053' lat='35.4476676' lon='139.4023492' />
+  <node id='3782804607' timestamp='2015-10-12T03:12:33Z' uid='621319' user='hayashi' visible='true' version='1' changeset='34581616' lat='35.4528615' lon='139.3985292' />
+  <node id='3782804611' timestamp='2015-10-12T03:12:33Z' uid='621319' user='hayashi' visible='true' version='1' changeset='34581616' lat='35.4531345' lon='139.3989008' />
+  <node id='3782813208' timestamp='2015-10-12T03:33:15Z' uid='621319' user='hayashi' visible='true' version='1' changeset='34581759' lat='35.4516007' lon='139.397214' />
+  <way id='29142152' timestamp='2015-10-12T03:33:18Z' uid='621319' user='hayashi' visible='true' version='14' changeset='34581759'>
+    <nd ref='369941560' />
+    <nd ref='3782813208' />
+    <nd ref='369941553' />
+    <nd ref='1952281746' />
+    <nd ref='1952281747' />
+    <nd ref='369941548' />
+    <nd ref='3188740942' />
+    <nd ref='418218491' />
+    <nd ref='3782804607' />
+    <nd ref='3782804611' />
+    <nd ref='369941539' />
+    <nd ref='369941535' />
+    <nd ref='1952281749' />
+    <nd ref='2751711868' />
+    <nd ref='320579345' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='ref' v='40' />
+    <tag k='source' v='survey' />
+    <tag k='surface' v='paved' />
+    <tag k='width' v='6' />
+  </way>
+  <way id='31300902' timestamp='2013-01-01T13:34:23Z' uid='283100' user='tom_konda' visible='true' version='9' changeset='14486225'>
+    <nd ref='535270081' />
+    <nd ref='348235898' />
+    <tag k='highway' v='service' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='51319099' timestamp='2015-12-23T03:40:03Z' uid='621319' user='hayashi' visible='true' version='4' changeset='36117816'>
+    <nd ref='654592859' />
+    <nd ref='654592860' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='maxspeed' v='40' />
+    <tag k='oneway' v='no' />
+    <tag k='ref' v='406' />
+    <tag k='route' v='road' />
+    <tag k='source' v='Bing 2012' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='51319100' timestamp='2015-12-23T03:40:08Z' uid='621319' user='hayashi' visible='true' version='11' changeset='36117816'>
+    <nd ref='654592860' />
+    <nd ref='320579463' />
+    <nd ref='320579470' />
+    <nd ref='320579477' />
+    <nd ref='320579483' />
+    <nd ref='3188740922' />
+    <nd ref='3188740918' />
+    <nd ref='320579498' />
+    <nd ref='320579503' />
+    <nd ref='2250044817' />
+    <nd ref='320579509' />
+    <nd ref='3188740903' />
+    <nd ref='663919462' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='神奈川県道406号吉岡海老名線' />
+    <tag k='oneway' v='no' />
+    <tag k='ref' v='406' />
+    <tag k='route' v='road' />
+    <tag k='source' v='Bing 2012' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='51319186' timestamp='2012-10-08T08:47:26Z' uid='621319' user='hayashi' visible='true' version='13' changeset='13409372'>
+    <nd ref='320579647' />
+    <nd ref='320579674' />
+    <nd ref='1952281730' />
+    <nd ref='1952281729' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+  </way>
+  <way id='53724707' timestamp='2012-11-03T09:04:51Z' uid='621319' user='hayashi' visible='true' version='4' changeset='13731743'>
+    <nd ref='678287209' />
+    <nd ref='1994995553' />
+    <nd ref='1994995552' />
+    <tag k='highway' v='tertiary' />
+  </way>
+  <way id='73026235' timestamp='2015-12-23T03:40:08Z' uid='621319' user='hayashi' visible='true' version='6' changeset='36117816'>
+    <nd ref='320579323' />
+    <nd ref='1742804431' />
+    <nd ref='320579419' />
+    <nd ref='320579427' />
+    <nd ref='320579434' />
+    <nd ref='320579449' />
+    <nd ref='320579456' />
+    <nd ref='654592859' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='県道　吉岡海老名線' />
+    <tag k='oneway' v='no' />
+    <tag k='ref' v='406' />
+    <tag k='route' v='road' />
+    <tag k='source' v='Bing 2012' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='154878645' timestamp='2012-11-03T09:04:52Z' uid='621319' user='hayashi' visible='true' version='7' changeset='13731743'>
+    <nd ref='1668449916' />
+    <nd ref='1867297962' />
+    <nd ref='1867297964' />
+    <nd ref='1867297966' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='30' />
+  </way>
+  <way id='184719719' timestamp='2016-03-30T15:40:38Z' uid='171028' user='yasunari' visible='true' version='4' changeset='38170684'>
+    <nd ref='365903366' />
+    <nd ref='1952281741' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='厚木街道' />
+    <tag k='name:en' v='Atsugi Kaido' />
+    <tag k='name:ja' v='厚木街道' />
+    <tag k='ref' v='40' />
+    <tag k='source' v='Bing 2012' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='184719720' timestamp='2016-03-30T15:40:38Z' uid='171028' user='yasunari' visible='true' version='4' changeset='38170684'>
+    <nd ref='369941560' />
+    <nd ref='365903366' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='厚木街道' />
+    <tag k='name:en' v='Atsugi Kaido' />
+    <tag k='name:ja' v='厚木街道' />
+    <tag k='ref' v='40' />
+    <tag k='source' v='Bing 2012' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='184719721' timestamp='2016-03-30T15:40:39Z' uid='171028' user='yasunari' visible='true' version='9' changeset='38170684'>
+    <nd ref='348235866' />
+    <nd ref='2238384149' />
+    <nd ref='428791282' />
+    <nd ref='418218786' />
+    <nd ref='365932779' />
+    <nd ref='1952281741' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='厚木街道' />
+    <tag k='name:en' v='Atsugi Kaido' />
+    <tag k='name:ja' v='厚木街道' />
+    <tag k='ref' v='40' />
+    <tag k='source' v='Bing 2012' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='184719723' timestamp='2012-11-04T00:36:01Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13741367'>
+    <nd ref='372585652' />
+    <nd ref='654687608' />
+    <nd ref='372585641' />
+    <nd ref='654687598' />
+    <nd ref='654687564' />
+    <nd ref='654687566' />
+    <nd ref='1738351945' />
+    <nd ref='372585619' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+  </way>
+  <way id='184719726' timestamp='2012-10-08T08:47:22Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13409372'>
+    <nd ref='1715810600' />
+    <nd ref='654687527' />
+    <nd ref='601456926' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+  </way>
+  <way id='184719727' timestamp='2014-11-16T04:02:07Z' uid='631141' user='Ryo-a' visible='true' version='3' changeset='26813994'>
+    <nd ref='601456926' />
+    <nd ref='536511381' />
+    <nd ref='430738716' />
+    <nd ref='1668449997' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+  </way>
+  <way id='184719728' timestamp='2014-03-29T12:32:44Z' uid='621319' user='hayashi' visible='true' version='3' changeset='21382167'>
+    <nd ref='348235898' />
+    <nd ref='2751711866' />
+    <nd ref='348235867' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='184719729' timestamp='2012-10-08T08:47:22Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13409372'>
+    <nd ref='372585721' />
+    <nd ref='605224356' />
+    <nd ref='372585705' />
+    <nd ref='1952281726' />
+    <nd ref='372585690' />
+    <nd ref='1952281725' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+  </way>
+  <way id='184719730' timestamp='2013-03-24T12:28:22Z' uid='621319' user='hayashi' visible='true' version='2' changeset='15478067'>
+    <nd ref='1952281729' />
+    <nd ref='372585738' />
+    <nd ref='1952281728' />
+    <nd ref='372585729' />
+    <nd ref='2218445393' />
+    <nd ref='1952281727' />
+    <nd ref='601456925' />
+    <nd ref='372585721' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+  </way>
+  <way id='184719731' timestamp='2012-10-08T08:47:23Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13409372'>
+    <nd ref='1952281725' />
+    <nd ref='646674819' />
+    <nd ref='372585679' />
+    <nd ref='439955935' />
+    <nd ref='372585666' />
+    <nd ref='646674811' />
+    <nd ref='654687561' />
+    <nd ref='372585652' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+  </way>
+  <way id='184719732' timestamp='2016-03-30T15:40:28Z' uid='171028' user='yasunari' visible='true' version='6' changeset='38170684'>
+    <nd ref='1952281751' />
+    <nd ref='1996750807' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='ref' v='40' />
+    <tag k='source' v='Bing 2012' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='184719734' timestamp='2015-12-23T03:40:09Z' uid='621319' user='hayashi' visible='true' version='4' changeset='36117816'>
+    <nd ref='1952281732' />
+    <nd ref='320579516' />
+    <nd ref='671200481' />
+    <nd ref='3720646518' />
+    <nd ref='320579522' />
+    <nd ref='320579531' />
+    <nd ref='320579548' />
+    <nd ref='3720646507' />
+    <nd ref='320579567' />
+    <nd ref='647710119' />
+    <nd ref='320579583' />
+    <nd ref='320579592' />
+    <nd ref='647710130' />
+    <nd ref='647710131' />
+    <nd ref='647710112' />
+    <nd ref='320579609' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='神奈川県道406号吉岡海老名線' />
+    <tag k='ref' v='406' />
+  </way>
+  <way id='184719735' timestamp='2015-12-23T03:40:03Z' uid='621319' user='hayashi' visible='true' version='2' changeset='36117816'>
+    <nd ref='320579609' />
+    <nd ref='320579639' />
+    <nd ref='320579647' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='ref' v='406' />
+  </way>
+  <way id='184719736' timestamp='2015-12-23T03:40:10Z' uid='621319' user='hayashi' visible='true' version='5' changeset='36117816'>
+    <nd ref='663919462' />
+    <nd ref='3188740895' />
+    <nd ref='2250044736' />
+    <nd ref='662296264' />
+    <nd ref='1952281732' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='神奈川県道406号吉岡海老名線' />
+    <tag k='ref' v='406' />
+  </way>
+  <way id='188863316' timestamp='2012-11-03T09:04:50Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13731743'>
+    <nd ref='1994995554' />
+    <nd ref='678287209' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+  </way>
+  <way id='188863317' timestamp='2012-11-04T00:25:39Z' uid='621319' user='hayashi' visible='true' version='2' changeset='13741310'>
+    <nd ref='1668449997' />
+    <nd ref='1668449996' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+  </way>
+  <way id='188863319' timestamp='2012-11-03T09:04:51Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13731743'>
+    <nd ref='1994995552' />
+    <nd ref='678287208' />
+    <nd ref='1994995551' />
+    <nd ref='1668449917' />
+    <nd ref='1668449916' />
+    <tag k='highway' v='tertiary' />
+  </way>
+  <way id='188863321' timestamp='2012-11-03T09:04:51Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13731743'>
+    <nd ref='1867297966' />
+    <nd ref='1867297968' />
+    <nd ref='1674579648' />
+    <nd ref='1674579649' />
+    <nd ref='1994995549' />
+    <nd ref='1674579650' />
+    <nd ref='1994995550' />
+    <nd ref='1673420268' />
+    <nd ref='1673417115' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='30' />
+  </way>
+  <way id='188993291' timestamp='2012-11-04T00:25:38Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13741310'>
+    <nd ref='656063871' />
+    <nd ref='1673417115' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+  </way>
+  <way id='188993292' timestamp='2012-11-04T00:25:38Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13741310'>
+    <nd ref='1668449996' />
+    <nd ref='372584053' />
+    <nd ref='1668449967' />
+    <nd ref='1668449964' />
+    <nd ref='656063880' />
+    <nd ref='372584045' />
+    <nd ref='1994995562' />
+    <nd ref='1668449961' />
+    <nd ref='1994995561' />
+    <nd ref='372584038' />
+    <nd ref='372584033' />
+    <nd ref='1668449956' />
+    <nd ref='1994995560' />
+    <nd ref='372584029' />
+    <nd ref='1994995559' />
+    <nd ref='1668449950' />
+    <nd ref='1668449947' />
+    <nd ref='372584026' />
+    <nd ref='1994995558' />
+    <nd ref='678287213' />
+    <nd ref='1994995557' />
+    <nd ref='372584023' />
+    <nd ref='1994995556' />
+    <nd ref='1994995555' />
+    <nd ref='1668449929' />
+    <nd ref='1668449928' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+  </way>
+  <way id='188993293' timestamp='2012-11-04T00:25:38Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13741310'>
+    <nd ref='1668449928' />
+    <nd ref='372584018' />
+    <nd ref='1994995554' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+  </way>
+  <way id='188993524' timestamp='2012-11-04T00:35:59Z' uid='621319' user='hayashi' visible='true' version='1' changeset='13741367'>
+    <nd ref='372585619' />
+    <nd ref='1738351939' />
+    <nd ref='657922777' />
+    <nd ref='657922741' />
+    <nd ref='1715810600' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+  </way>
+  <way id='189028397' timestamp='2016-03-31T10:35:52Z' uid='171028' user='yasunari' visible='true' version='4' changeset='38194559'>
+    <nd ref='320579345' />
+    <nd ref='1952281751' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='ref' v='40' />
+    <tag k='source' v='Bing 2012' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='199035426' timestamp='2014-03-29T12:32:44Z' uid='621319' user='hayashi' visible='true' version='4' changeset='21382167'>
+    <nd ref='348235867' />
+    <nd ref='348235866' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='211105735' timestamp='2016-03-31T10:37:06Z' uid='171028' user='yasunari' visible='true' version='4' changeset='38194581'>
+    <nd ref='1996750807' />
+    <nd ref='320579323' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='ref' v='40' />
+    <tag k='source' v='Bing 2012' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='270083338' timestamp='2014-03-29T12:32:33Z' uid='621319' user='hayashi' visible='true' version='1' changeset='21382167'>
+    <nd ref='2751711865' />
+    <nd ref='535269858' />
+    <nd ref='2090915101' />
+    <tag k='highway' v='service' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='270252688' timestamp='2014-03-30T00:31:27Z' uid='621319' user='hayashi' visible='true' version='1' changeset='21393002'>
+    <nd ref='2751711864' />
+    <nd ref='2751711865' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='385653794' timestamp='2016-04-01T12:31:20Z' uid='171028' user='yasunari' visible='true' version='2' changeset='38225093'>
+    <nd ref='348235866' />
+    <nd ref='2751711864' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='厚木街道' />
+    <tag k='name:en' v='Atsugi Kaido' />
+    <tag k='name:ja' v='厚木街道' />
+    <tag k='ref' v='40' />
+    <tag k='source' v='Bing 2012' />
+    <tag k='surface' v='paved' />
+  </way>
+  <relation id='2551991' action='modify' timestamp='2016-04-03T10:45:50Z' uid='621319' user='hayashi' visible='true' version='14' changeset='38264527'>
+    <member type='way' ref='31300902' role='' />
+    <member type='way' ref='184719728' role='' />
+    <member type='way' ref='199035426' role='' />
+    <member type='way' ref='184719721' role='' />
+    <member type='way' ref='184719719' role='' />
+    <member type='way' ref='184719720' role='' />
+    <member type='way' ref='29142152' role='' />
+    <member type='way' ref='189028397' role='' />
+    <member type='way' ref='184719732' role='' />
+    <member type='way' ref='211105735' role='' />
+    <member type='way' ref='73026235' role='' />
+    <member type='way' ref='51319099' role='' />
+    <member type='way' ref='51319100' role='' />
+    <member type='way' ref='184719736' role='' />
+    <member type='way' ref='184719734' role='' />
+    <member type='way' ref='184719735' role='' />
+    <member type='way' ref='51319186' role='' />
+    <member type='way' ref='184719730' role='' />
+    <member type='way' ref='184719729' role='' />
+    <member type='way' ref='184719731' role='' />
+    <member type='way' ref='184719723' role='' />
+    <member type='way' ref='188993524' role='' />
+    <member type='way' ref='184719726' role='' />
+    <member type='way' ref='184719727' role='' />
+    <member type='way' ref='188863317' role='' />
+    <member type='way' ref='188993292' role='' />
+    <member type='way' ref='188993293' role='' />
+    <member type='way' ref='188863316' role='' />
+    <member type='way' ref='53724707' role='' />
+    <member type='way' ref='188863319' role='' />
+    <member type='way' ref='154878645' role='' />
+    <member type='way' ref='188863321' role='' />
+    <member type='way' ref='188993291' role='' />
+    <member type='node' ref='1952281753' role='platform' />
+    <member type='node' ref='1952281741' role='stop' />
+    <member type='node' ref='320579345' role='stop' />
+    <member type='node' ref='2280156233' role='platform' />
+    <member type='node' ref='2057263574' role='platform' />
+    <member type='node' ref='320579609' role='stop' />
+    <member type='node' ref='1952281729' role='stop' />
+    <member type='node' ref='2130308465' role='platform' />
+    <member type='node' ref='1952281725' role='stop' />
+    <member type='node' ref='372585652' role='stop' />
+    <member type='node' ref='1715810600' role='stop' />
+    <member type='node' ref='1668449996' role='stop' />
+    <member type='node' ref='1994995577' role='platform' />
+    <member type='node' ref='1994995545' role='platform' />
+    <member type='node' ref='1995040795' role='platform' />
+    <tag k='description' v='2016-03-14に廃止。「綾23 海老名駅～下浜田～農大前」に変更' />
+    <tag k='disused' v='yes' />
+    <tag k='end_date' v='2016-03-13' />
+    <tag k='from' v='海老名駅' />
+    <tag k='name' v='綾13 農大前行き' />
+    <tag k='network' v='相鉄バス' />
+    <tag k='operator' v='相鉄バス' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='ref' v='綾13' />
+    <tag k='roundtrip' v='no' />
+    <tag k='route' v='bus' />
+    <tag k='source' v='survey' />
+    <tag k='to' v='農大前' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='5763719' action='modify' timestamp='2016-04-03T10:45:49Z' uid='621319' user='hayashi' visible='true' version='3' changeset='38264527'>
+    <member type='way' ref='188993291' role='' />
+    <member type='way' ref='188863321' role='' />
+    <member type='way' ref='154878645' role='' />
+    <member type='way' ref='188863319' role='' />
+    <member type='way' ref='53724707' role='' />
+    <member type='way' ref='188863316' role='' />
+    <member type='way' ref='188993293' role='' />
+    <member type='way' ref='188993292' role='' />
+    <member type='way' ref='188863317' role='' />
+    <member type='way' ref='184719727' role='' />
+    <member type='way' ref='184719726' role='' />
+    <member type='way' ref='188993524' role='' />
+    <member type='way' ref='184719723' role='' />
+    <member type='way' ref='184719731' role='' />
+    <member type='way' ref='184719729' role='' />
+    <member type='way' ref='184719730' role='' />
+    <member type='way' ref='51319186' role='' />
+    <member type='way' ref='184719735' role='' />
+    <member type='way' ref='184719734' role='' />
+    <member type='way' ref='184719736' role='' />
+    <member type='way' ref='51319100' role='' />
+    <member type='way' ref='51319099' role='' />
+    <member type='way' ref='73026235' role='' />
+    <member type='way' ref='211105735' role='' />
+    <member type='way' ref='184719732' role='' />
+    <member type='way' ref='189028397' role='' />
+    <member type='way' ref='29142152' role='' />
+    <member type='way' ref='184719720' role='' />
+    <member type='way' ref='184719719' role='' />
+    <member type='way' ref='184719721' role='' />
+    <member type='way' ref='385653794' role='' />
+    <member type='way' ref='270252688' role='' />
+    <member type='way' ref='270083338' role='' />
+    <member type='node' ref='1995040795' role='platform' />
+    <member type='node' ref='1867297247' role='platform' />
+    <member type='node' ref='1867297262' role='platform' />
+    <member type='node' ref='1867297276' role='platform' />
+    <member type='node' ref='1668449996' role='stop' />
+    <member type='node' ref='1715810600' role='stop' />
+    <member type='node' ref='372585652' role='stop' />
+    <member type='node' ref='1952281725' role='stop' />
+    <member type='node' ref='1715913481' role='platform' />
+    <member type='node' ref='1952281729' role='stop' />
+    <member type='node' ref='320579609' role='stop' />
+    <member type='node' ref='1715913477' role='platform' />
+    <member type='node' ref='1715913476' role='platform' />
+    <member type='node' ref='320579345' role='stop' />
+    <member type='node' ref='1952281741' role='stop' />
+    <member type='node' ref='1715913483' role='platform' />
+    <tag k='description' v='2016-03-14に廃止。「綾23 海老名駅～下浜田～農大前」に変更' />
+    <tag k='disused' v='yes' />
+    <tag k='end_date' v='2016-03-13' />
+    <tag k='from' v='農大前' />
+    <tag k='name' v='綾13 海老名駅行き' />
+    <tag k='network' v='相鉄バス' />
+    <tag k='operator' v='相鉄バス' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='ref' v='綾13' />
+    <tag k='roundtrip' v='no' />
+    <tag k='route' v='bus' />
+    <tag k='source' v='survey' />
+    <tag k='to' v='海老名駅' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='5763720' timestamp='2016-02-28T03:39:59Z' uid='621319' user='hayashi' visible='true' version='2' changeset='37493171'>
+    <member type='relation' ref='5763719' role='' />
+    <member type='relation' ref='2551991' role='' />
+    <tag k='name' v='綾13' />
+    <tag k='network' v='相鉄バス' />
+    <tag k='operator' v='相鉄バス' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='ref' v='綾13' />
+    <tag k='roundtrip' v='no' />
+    <tag k='route_master' v='bus' />
+    <tag k='type' v='route_master' />
+  </relation>
+</osm>
